@@ -1,0 +1,35 @@
+C:\Users\KRIS\source\repos\CourseProjectTicTacToe\GameClient\bin\Debug\GameClient.exe.config
+C:\Users\KRIS\source\repos\CourseProjectTicTacToe\GameClient\bin\Debug\GameClient.exe
+C:\Users\KRIS\source\repos\CourseProjectTicTacToe\GameClient\bin\Debug\GameClient.pdb
+C:\Users\KRIS\source\repos\CourseProjectTicTacToe\GameClient\obj\Debug\MainWindow.g.cs
+C:\Users\KRIS\source\repos\CourseProjectTicTacToe\GameClient\obj\Debug\PlayerUI\PlayerUserControl.g.cs
+C:\Users\KRIS\source\repos\CourseProjectTicTacToe\GameClient\obj\Debug\App.g.cs
+C:\Users\KRIS\source\repos\CourseProjectTicTacToe\GameClient\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\KRIS\source\repos\CourseProjectTicTacToe\GameClient\obj\Debug\GameClient_MarkupCompile.cache
+C:\Users\KRIS\source\repos\CourseProjectTicTacToe\GameClient\obj\Debug\GameClient_MarkupCompile.lref
+C:\Users\KRIS\source\repos\CourseProjectTicTacToe\GameClient\obj\Debug\MainWindow.baml
+C:\Users\KRIS\source\repos\CourseProjectTicTacToe\GameClient\obj\Debug\PlayerUI\PlayerUserControl.baml
+C:\Users\KRIS\source\repos\CourseProjectTicTacToe\GameClient\obj\Debug\GameClient.g.resources
+C:\Users\KRIS\source\repos\CourseProjectTicTacToe\GameClient\obj\Debug\GameClient.Properties.Resources.resources
+C:\Users\KRIS\source\repos\CourseProjectTicTacToe\GameClient\obj\Debug\GameClient.csproj.GenerateResource.cache
+C:\Users\KRIS\source\repos\CourseProjectTicTacToe\GameClient\obj\Debug\GameClient.csproj.CoreCompileInputs.cache
+C:\Users\KRIS\source\repos\CourseProjectTicTacToe\GameClient\obj\Debug\GameClient.exe
+C:\Users\KRIS\source\repos\CourseProjectTicTacToe\GameClient\obj\Debug\GameClient.pdb
+D:\FMI\2 Курс\2 Курс 1 Сем\C#\CourseProjectTicTacToe\GameClient\bin\Debug\GameClient.exe.config
+D:\FMI\2 Курс\2 Курс 1 Сем\C#\CourseProjectTicTacToe\GameClient\bin\Debug\GameClient.exe
+D:\FMI\2 Курс\2 Курс 1 Сем\C#\CourseProjectTicTacToe\GameClient\bin\Debug\GameClient.pdb
+D:\FMI\2 Курс\2 Курс 1 Сем\C#\CourseProjectTicTacToe\GameClient\obj\Debug\GameClient.csprojAssemblyReference.cache
+D:\FMI\2 Курс\2 Курс 1 Сем\C#\CourseProjectTicTacToe\GameClient\obj\Debug\MainWindow.g.cs
+D:\FMI\2 Курс\2 Курс 1 Сем\C#\CourseProjectTicTacToe\GameClient\obj\Debug\PlayerUI\PlayerUserControl.g.cs
+D:\FMI\2 Курс\2 Курс 1 Сем\C#\CourseProjectTicTacToe\GameClient\obj\Debug\App.g.cs
+D:\FMI\2 Курс\2 Курс 1 Сем\C#\CourseProjectTicTacToe\GameClient\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\FMI\2 Курс\2 Курс 1 Сем\C#\CourseProjectTicTacToe\GameClient\obj\Debug\GameClient_MarkupCompile.cache
+D:\FMI\2 Курс\2 Курс 1 Сем\C#\CourseProjectTicTacToe\GameClient\obj\Debug\GameClient_MarkupCompile.lref
+D:\FMI\2 Курс\2 Курс 1 Сем\C#\CourseProjectTicTacToe\GameClient\obj\Debug\MainWindow.baml
+D:\FMI\2 Курс\2 Курс 1 Сем\C#\CourseProjectTicTacToe\GameClient\obj\Debug\PlayerUI\PlayerUserControl.baml
+D:\FMI\2 Курс\2 Курс 1 Сем\C#\CourseProjectTicTacToe\GameClient\obj\Debug\GameClient.g.resources
+D:\FMI\2 Курс\2 Курс 1 Сем\C#\CourseProjectTicTacToe\GameClient\obj\Debug\GameClient.Properties.Resources.resources
+D:\FMI\2 Курс\2 Курс 1 Сем\C#\CourseProjectTicTacToe\GameClient\obj\Debug\GameClient.csproj.GenerateResource.cache
+D:\FMI\2 Курс\2 Курс 1 Сем\C#\CourseProjectTicTacToe\GameClient\obj\Debug\GameClient.csproj.CoreCompileInputs.cache
+D:\FMI\2 Курс\2 Курс 1 Сем\C#\CourseProjectTicTacToe\GameClient\obj\Debug\GameClient.exe
+D:\FMI\2 Курс\2 Курс 1 Сем\C#\CourseProjectTicTacToe\GameClient\obj\Debug\GameClient.pdb
